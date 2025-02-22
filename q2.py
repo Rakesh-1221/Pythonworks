@@ -1,0 +1,6 @@
+x=(1,2,4,7,9,8,10)
+y=sorted(x)
+print(y)
+print(y[-1])
+# x.sort()
+# print(x)
